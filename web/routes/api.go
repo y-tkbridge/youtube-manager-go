@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/labstack/echo"
-	"github.com/y-bridge/youtube-manager-go/web/api"
+	"github.com/y-tkbridge/youtube-manager-go/web/api"
 )
 
 func Init(e *echo.Echo) {
