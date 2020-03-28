@@ -34,7 +34,7 @@
   version = "20180529.0.0"
 
 [[constraint]]
-  branch = "master"
+  branch = "y-tkbridge"
   name = "github.com/y-tkbridge/youtube-manager-go"
 
 [prune]

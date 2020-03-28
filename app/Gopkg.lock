@@ -77,7 +77,7 @@
   version = "v1.1.0"
 
 [[projects]]
-  branch = "master"
+  branch = "y-tkbridge"
   digest = "1:0f138879beebe02e7d0a64dfdb36afd708b87c3950da0c34fec4a6fe6cea670c"
   name = "github.com/y-tkbridge/youtube-manager-go"
   packages = [
@@ -85,7 +85,7 @@
     "web/routes",
   ]
   pruneopts = "UT"
-  revision = "7cdfab78c1371b205b6b9eecc6811b974ba8dcd4"
+  revision = "ea8d2c6966a75fe9635d2c51495771bb1722f017"
 
 [[projects]]
   branch = "master"
