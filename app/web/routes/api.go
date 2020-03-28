@@ -8,6 +8,6 @@ import (
 func Init(e *echo.Echo) {
 	g := e.Group("/api")
 	{
-		g.GET("/popular", api.GetchMostPopularVideos())
+		g.GET("/popular", api.FetchMostPopularVideos())
 	}
 }
